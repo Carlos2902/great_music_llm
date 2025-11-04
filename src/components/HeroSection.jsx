@@ -12,7 +12,7 @@ const HeroSection = () => (
       playsInline
       className="absolute inset-0 z-0 h-full w-full object-cover"
     >
-      <source src="/orchestra.mp4" type="video/mp4" />
+      <source src="https://9gx9om0v1baibg67.public.blob.vercel-storage.com/orchestra.mp4" type="video/mp4" />
     </video>
 
     <div className="absolute inset-0 z-10 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
